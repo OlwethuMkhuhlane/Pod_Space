@@ -3,8 +3,8 @@ import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
 import facebook from './facebook.jpg';
 import Git from './Git.png';
 import LinkedIn from './LinkedIn.png';
-import Twitter from './Twitter.png'
-{/*Component contains all contact details*/}
+import Twitter from './Twitter.png';
+// {/*Component contains all contact details*/}
 class Contact extends Component {
     render() {
         return (
