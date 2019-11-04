@@ -22,12 +22,6 @@ class Contact extends Component {
                         <div className="contact-list">
                          {/*used a list for contact details*/}
                           <List>
-                            <ListItem>
-                              <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                                <i className="fa fa-phone-square" aria-hidden="true"/>
-                                Contact Number : 062 087 8533
-                              </ListItemContent>
-                                </ListItem>
                                 <ListItem>
                                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                                     <i className="fa fa-fax" aria-hidden="true"/>
