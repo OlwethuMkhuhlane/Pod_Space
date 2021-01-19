@@ -185,6 +185,63 @@ class Projects extends Component {
               <IconButton name="share" />
             </CardMenu>
           </Card>
+
+          {/* Project 6 */}
+          <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+            <CardTitle
+              style={{
+                color: "orangered",
+                height: "200px",
+                background:
+                  "url(https://www.flaticon.com/svg/vstatic/svg/2856/2856873.svg?token=exp=1610836190~hmac=98feabc4afce2ac1e0a3aaaf6ae2b2f7) center / cover",
+                textAlign: "center",
+                fontSize: "24px"
+              }}
+            >
+              Heckathon 1 Climate Change Belief Analysis.
+            </CardTitle>
+            <CardText>Participated as a Team in a Climate Change Belief Analysis heckathon (As Team_3_CPT_classification_crusaders : Ranked 2nd)</CardText>
+            <CardActions border>
+              <Button
+                colored
+                href="https://www.kaggle.com/c/climate-change-belief-analysis/leaderboard"
+              >
+                Kaggle leaderboard link
+              </Button>
+            </CardActions>
+            <CardMenu style={{ color: "#fff" }}>
+              <IconButton name="share" />
+            </CardMenu>
+          </Card>
+
+
+           {/* Project 7 */}
+           <Card shadow={0} style={{ minWidth: "450", margin: "auto" }}>
+            <CardTitle
+              style={{
+                color: "orangered",
+                height: "200px",
+                background:
+                  "url(https://www.flaticon.com/svg/vstatic/svg/2171/2171471.svg?token=exp=1610835454~hmac=9ced347dfc8670e8415d314c8948da53) center / cover",
+                textAlign: "center",
+                fontSize: "24px"
+              }}
+            >
+              Heckathon 2 Sendy Logistics Challenge.
+            </CardTitle>
+            <CardText>Participated as a Team in a Sendy Logistics Challenge heckathon in Predicting the estimated time of arrival (ETA) for motorbike deliveries in Nairobi (As team-10-cpt-explorers : Ranked 7th)</CardText>
+            <CardActions border>
+              <Button
+                colored
+                href="https://zindi.africa/hackathons/edsa-sendy-logistics-challenge/leaderboard"
+              >
+                Zindi leaderboard link
+              </Button>
+            </CardActions>
+            <CardMenu style={{ color: "#fff" }}>
+              <IconButton name="share" />
+            </CardMenu>
+          </Card>
         </div>
       );
     } 
