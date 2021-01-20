@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9e30cde8.chunk.css",
-    "main.js": "/portfolio/static/js/main.781686f1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.781686f1.chunk.js.map",
-    "runtime~main.js": "/portfolio/static/js/runtime~main.f854cbbe.js",
-    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f854cbbe.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/portfolio/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.4b7edf12.chunk.js": "/portfolio/static/js/2.4b7edf12.chunk.js",
-    "static/js/2.4b7edf12.chunk.js.map": "/portfolio/static/js/2.4b7edf12.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.46a6b2a80d6779dc3a1b4088d73b5cbd.js": "/portfolio/precache-manifest.46a6b2a80d6779dc3a1b4088d73b5cbd.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/portfolio/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.9e30cde8.chunk.css.map": "/portfolio/static/css/main.9e30cde8.chunk.css.map"
+    "main.css": "/fictional-invention/static/css/main.f941d3fa.chunk.css",
+    "main.js": "/fictional-invention/static/js/main.5c457b87.chunk.js",
+    "main.js.map": "/fictional-invention/static/js/main.5c457b87.chunk.js.map",
+    "runtime~main.js": "/fictional-invention/static/js/runtime~main.de446436.js",
+    "runtime~main.js.map": "/fictional-invention/static/js/runtime~main.de446436.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/fictional-invention/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.919dfc82.chunk.js": "/fictional-invention/static/js/2.919dfc82.chunk.js",
+    "static/js/2.919dfc82.chunk.js.map": "/fictional-invention/static/js/2.919dfc82.chunk.js.map",
+    "index.html": "/fictional-invention/index.html",
+    "precache-manifest.9f10f898ccab114c03ee8598d70f75b0.js": "/fictional-invention/precache-manifest.9f10f898ccab114c03ee8598d70f75b0.js",
+    "service-worker.js": "/fictional-invention/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/fictional-invention/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.f941d3fa.chunk.css.map": "/fictional-invention/static/css/main.f941d3fa.chunk.css.map"
   }
 }
